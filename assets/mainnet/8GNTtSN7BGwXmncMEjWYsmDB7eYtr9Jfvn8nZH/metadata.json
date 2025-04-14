@@ -1,0 +1,15 @@
+{
+    "name": "Pictos Coin",
+    "symbol": "PICT",
+    "description": "Pictos Coin is a fresh, fun meme token built on the blazing-fast Solana blockchain \u2014 inspired by a quirky cactus with big dreams and even bigger spikes!",
+    "image": "https://raw.githubusercontent.com/vorize/pictos-token-list/main/assets/mainnet/8GNTtSN7BGwXmncMEjWYsmDB7eYtr9Jfvn8nZH/logo.png",
+    "tags": [
+        "memecoin",
+        "community"
+    ],
+    "extensions": {
+        "website": "https://pictoscoin.io",
+        "twitter": "",
+        "telegram": ""
+    }
+}
